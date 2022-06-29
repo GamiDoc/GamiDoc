@@ -1,0 +1,6 @@
+[submodule "GamiDoc-backend"]
+	path = GamiDoc-backend
+	url = https://github.com/gamidoc/GamiDoc-backend
+[submodule "GamiDoc-frontend"]
+	path = GamiDoc-frontend
+	url = https://github.com/GamiDoc/GamiDoc-frontend
